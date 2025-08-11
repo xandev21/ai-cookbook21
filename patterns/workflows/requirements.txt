@@ -3,3 +3,4 @@ ipykernel
 python-dotenv
 openai
 pydantic
+feedparser
